@@ -1,5 +1,5 @@
 let a = "Andres is ";
-let b = "mid";
+let b = "mid!";
 
 function add(a, b) {
     return a + b;
